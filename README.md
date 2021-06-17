@@ -10,3 +10,5 @@ O projeto consisite na criação de uma página na web, chamada E-diaristas. Com
 * Flexbox
 * MaterialUI
 * TypeScript
+* React
+* ReactNative
